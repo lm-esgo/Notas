@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/lm-esgo/Notas/issues"
   },
-  "homepage": "https://github.com/lm-esgo/Notas#readme"
+  "homepage": "https://github.com/lm-esgo/Notas#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
